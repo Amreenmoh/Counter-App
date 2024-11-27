@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Counter.css";
 
-//define fncl component
+//define functional component
 
 function FunctionalCounter(){
     //intialize count state variable and set count fnc to update
